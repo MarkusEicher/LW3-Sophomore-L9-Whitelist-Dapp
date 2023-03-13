@@ -1,0 +1,21 @@
+{
+  "name": "lw3-sophomore-l9-whitelist-dapp",
+  "version": "0.1.0",
+  "description": "Training project for lesson 9 Whitelist dApp - LearnWeb3DAO Sophomore Track",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Web3",
+    "Solidity",
+    "dApp",
+    "Hardhat"
+  ],
+  "author": "Markus Eicher",
+  "license": "AGPL-3.0-or-later",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0"
+  }
+}
